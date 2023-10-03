@@ -1,0 +1,1 @@
+C:\Users\Damian\Documents\.net\PracticoAppMobil\PracticoAppMobil.csproj;x64
